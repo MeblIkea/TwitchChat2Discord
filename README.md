@@ -19,5 +19,8 @@
 
 >  You have to fill the lines `8`, `14`, `15`, `16` of the file main.py for make the bot work.
 
+
+
+
 Thanks to DarkMatter, to let me use his chat to make my things.
 https://discord.gg/edMq4uWeGU
