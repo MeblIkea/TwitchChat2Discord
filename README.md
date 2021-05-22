@@ -19,7 +19,7 @@
 
 >  You have to fill the lines `8`, `14`, `15`, `16` of the file main.py for make the bot work.
 
-
+https://cdn.discordapp.com/attachments/845298238374674452/845671896359895062/unknown.png
 
 
 Thanks to DarkMatter, to let me use his chat to make my things.
