@@ -7,6 +7,7 @@
 
 > Warning : This project use IRC chat, so at the startup of the bot, a couple of message was send in your channel.
 
+https://repository-images.githubusercontent.com/369836298/7750d380-bb22-11eb-951d-ecc08f8a72a1
 
 ## Installation
 
