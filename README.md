@@ -17,8 +17,16 @@
 `discordwebhook`,
 `time`
 
+You have to create a Twitch account for you bot
+
 >  You have to fill the lines `8`, `14`, `15`, `16` of the file main.py for make the bot work.
 
 
+###### 8: Your server > Settings of the channel you want to send the messages > Integration > Create new webhook > Copy the webhook url and paste it
+###### 14: The name of your bot (like in the twitch page url of your bot)
+###### [15: Put your twitch bot token](https://twitchapps.com/tmi/)
+###### 16: The channel you want to read
 
-Thanks to [DarkMatter](https://www.twitch.tv/darkmatterh1), to let me use his chat to make my things. [His discord](https://discord.gg/edMq4uWeGU)
+
+
+### Thanks to [DarkMatter](https://www.twitch.tv/darkmatterh1), to let me use his chat to make my things. [His discord](https://discord.gg/edMq4uWeGU)
