@@ -6,8 +6,7 @@
 >When someone send a message in your chat, this message will be send to a specific channel of you Discord Server.
 
 > Warning : This project use IRC chat, so at the startup of the bot, a couple of message was send in your channel.
-
-![image](https://repository-images.githubusercontent.com/369836298/7750d380-bb22-11eb-951d-ecc08f8a72a1)
+<img src="https://repository-images.githubusercontent.com/369836298/7750d380-bb22-11eb-951d-ecc08f8a72a1" width=50% height=50%>
 
 ## Installation
 
