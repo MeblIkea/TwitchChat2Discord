@@ -21,5 +21,4 @@
 
 
 
-Thanks to DarkMatter, to let me use his chat to make my things.
-https://discord.gg/edMq4uWeGU
+Thanks to [DarkMatter](https://www.twitch.tv/darkmatterh1), to let me use his chat to make my things. [His discord](https://discord.gg/edMq4uWeGU)
