@@ -5,7 +5,7 @@ from discordwebhook import Discord
 import time
 
 webhook = Discord(
-    url='')
+    url='') # Your Discord webhook here
 
 sock = socket.socket()
 
